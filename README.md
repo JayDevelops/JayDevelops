@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Jesus Perez Arias based in lovely Los Angeles, California.<br><br>- 🔭 I'm a Software Engineer specializing in beautiful Full-Stack Web and great Swift Applications.<br>- 📚 I'm currently learning Blender, Three.js, Next.js 13, Vue, and ReactJS.<br>- ⚡ In my free time I love to create new projects and play FGC fighting video games.</p>
+<p align="left">I'm Jesus Perez Arias based in lovely Los Angeles, California.<br><br>- 🔭 I'm a Software Engineer specializing in beautiful Full-Stack Web and great Swift Applications.<br>- 📚 I'm currently learning Blender, Three.js, Next.js 13, Vue, Framer Motion, and ReactJS.<br>- 👨‍💻 I'm open for freelance and/or full employment so if you're looking for a great Web/iOS developer: contact@jesusperez.dev.<br>- 🤔 I'm seeking help creating locomotive scroll and more beautiful animations for web apps.<br>- ⚡ In my free time, I love to create new projects and play FGC fighting video games.<br>- 😄 My preferred name is Jay and my pronouns are he/him/his.</p>
 
 ###
 
