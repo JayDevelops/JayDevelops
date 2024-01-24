@@ -94,14 +94,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=JayDevelops&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JayDevelops&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
 
 ###
 
