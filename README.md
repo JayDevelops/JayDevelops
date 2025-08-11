@@ -14,6 +14,7 @@
   <a href="mailto:contact@jesusperez.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email Me!&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y11OC0A)
 </div>
 
 ###
